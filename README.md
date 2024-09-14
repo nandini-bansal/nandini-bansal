@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandini-bansal
 - 👀 I’m interested in coding, sketching and designing 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python (pandas and matplotlib) and MySQL
 - 😄 Pronouns: she/her
 
 <!---
